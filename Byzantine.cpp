@@ -1,11 +1,5 @@
- /*  Author -R A S P
-  *  Acronym for Rahul , Abhishek , Sudhir , Prateek
- *   Program to implement Byzantine protocol
+ /* *   Program to implement Byzantine protocol
  *   using mpi
- *   Date:26/09/2016
- *   
- * 
- * 
  * */
 
 #include <iostream>
